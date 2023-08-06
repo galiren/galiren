@@ -1,5 +1,11 @@
-### Hi there 👋
+### galiren 🍛
 
+#### Interests
+
+- AI prediction theory
+- handy code generation 
+- JVM 
+- Android
 <!--
 **galiren/galiren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
