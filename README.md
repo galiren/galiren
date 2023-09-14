@@ -2,10 +2,8 @@
 
 #### Interests
 
-- AI prediction theory
-- handy code generation 
-- JVM 
-- Android
+- AI asistant Automatic Control
+- Multimedia related tech
 <!--
 **galiren/galiren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
