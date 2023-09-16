@@ -2,8 +2,9 @@
 
 #### Interests
 
-- AI asistant Automatic Control
-- Multimedia related tech
+- AI asistant Automatic Control 🤖
+- Android Mobile tech 📱
+- Multimedia related tech ⚡
 <!--
 **galiren/galiren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
