@@ -1,3 +1,3 @@
 ### galiren 🍛
 
-Maybe an [Android](https://d.android.com) developer.
+I am interested in [Android](https://d.android.com) platform technologies.
